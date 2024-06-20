@@ -266,6 +266,7 @@ header div{
   font-size: 4vw;
   color: white;
   z-index: 100;
+  font-weight: 800;
 }
 .titleDiv{
   width: 80%;
